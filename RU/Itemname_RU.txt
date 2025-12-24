@@ -1,0 +1,16 @@
+ItemName_RU = 
+{
+	ItemName_Base.Sourdough = "Банка закваски",
+	ItemName_Base.OpenSourdough = "Банка закваски (открытая)",
+	ItemName_Base.SourdoughFeeded = "Банка подкормленной закваски",
+	ItemName_Base.SealedJar = "Банка с крышкой",
+	ItemName_Base.TomatoSauce = "Томатный соус",
+	ItemName_Base.CheeseStart = "Сырная закваска",
+	ItemName_Base.ForgedCheeseStart = "Сырная закваска",
+	ItemName_Base.Sourmilk = "Простокваша",
+	ItemName_Base.ForgedSourmilk = "Простокваша",
+	ItemName_Base.PotVinegar = "Уксусная закваска",
+	ItemName_Base.FermentedVinegar = "Ферментированный уксус",
+	ItemName_Base.ForgedPotVinegar = "Уксусная закваска",
+	ItemName_Base.ForgedFermentedVinegar = "Ферментированный уксус",
+}

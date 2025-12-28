@@ -20,4 +20,5 @@ ItemName_RU =
 	ItemName_Base.FishOil = "Рыбий жир",
 	ItemName_Base.FreshCheese = "Головка домашнего сыра",
 	ItemName_Base.FreshCheeseSlice = "Домашний сыр",
+	ItemName_Base.Hardtack = "Галета",
 }
